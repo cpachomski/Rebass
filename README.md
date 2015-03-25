@@ -2,7 +2,7 @@
 
 ###Lightweight Web App for uploading mp3 tracks, testing arrangements, and scrapping bad ideas before they get too far.
 
-###Build with:
+###Built with:
 - Meteor.js
 - HTML5
 - Web Audio API
